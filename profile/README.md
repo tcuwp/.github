@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Texas Corning-Umbridge-Williams Partnership
 
 🙋‍♀️ Welcome to the official GitHub repository of the Texas Corning-Umbridge-Williams Partnership! We are a dynamic organization committed to fostering collaboration, innovation, and growth in the technology industry. Our mission is to create meaningful partnerships that drive positive change and empower individuals and businesses to reach their full potential.
